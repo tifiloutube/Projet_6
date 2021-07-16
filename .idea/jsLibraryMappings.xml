@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="Projet_6/backend/node_modules copie/@eslint/eslintrc/node_modules" />
+    <excludedPredefinedLibrary name="Projet_6/backend/node_modules copie/cacheable-request/node_modules" />
+    <excludedPredefinedLibrary name="Projet_6/backend/node_modules copie/eslint-utils/node_modules" />
+    <excludedPredefinedLibrary name="Projet_6/backend/node_modules copie/helmet/node_modules" />
+    <excludedPredefinedLibrary name="Projet_6/backend/node_modules copie/lru-cache/node_modules" />
+    <excludedPredefinedLibrary name="Projet_6/backend/node_modules copie/make-dir/node_modules" />
+    <excludedPredefinedLibrary name="Projet_6/backend/node_modules copie/require_optional/node_modules" />
+  </component>
+</project>

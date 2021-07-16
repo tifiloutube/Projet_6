@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367c8776-91ca-4b9f-84cd-2fa7fd0903ee" name="Default Changelist" comment="" />
+    <list default="true" id="367c8776-91ca-4b9f-84cd-2fa7fd0903ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/sauce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/multer-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/thing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/sauce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+  </component>
   <component name="ProjectId" id="1vEhN1yDbmwQVUbCq4Wx3Nrn76r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,6 +38,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -27,10 +54,27 @@
       <option name="presentableId" value="Default" />
       <updated>1626133113551</updated>
       <workItem from="1626133115278" duration="8000" />
+      <workItem from="1626133462918" duration="2015000" />
+      <workItem from="1626178963374" duration="2529000" />
+      <workItem from="1626181628273" duration="67000" />
+      <workItem from="1626181717073" duration="9476000" />
+      <workItem from="1626351904391" duration="7347000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
