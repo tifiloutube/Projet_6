@@ -24,7 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vEhN1yDbmwQVUbCq4Wx3Nrn76r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,6 +35,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,7 +59,7 @@
       <workItem from="1626178963374" duration="2529000" />
       <workItem from="1626181628273" duration="67000" />
       <workItem from="1626181717073" duration="9476000" />
-      <workItem from="1626351904391" duration="7347000" />
+      <workItem from="1626351904391" duration="7604000" />
     </task>
     <servers />
   </component>
