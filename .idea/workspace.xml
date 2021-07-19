@@ -16,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/backend/routes/user.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
   </component>
   <component name="ProjectId" id="1vEhN1yDbmwQVUbCq4Wx3Nrn76r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,7 +58,10 @@
       <workItem from="1626178963374" duration="2529000" />
       <workItem from="1626181628273" duration="67000" />
       <workItem from="1626181717073" duration="9476000" />
-      <workItem from="1626351904391" duration="7604000" />
+      <workItem from="1626351904391" duration="7846000" />
+      <workItem from="1626445750549" duration="150000" />
+      <workItem from="1626446895235" duration="380000" />
+      <workItem from="1626702272935" duration="3537000" />
     </task>
     <servers />
   </component>
