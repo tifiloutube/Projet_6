@@ -7,8 +7,9 @@ const userRoutes = require('./routes/user');
 const saucesRoutes = require('./routes/sauce');
 
 const app = express();
-//NbJ1CCoChoLXqdSv
-mongoose.connect('mongodb+srv://tifiloutube:NbJ1CCoChoLXqdSv@cluster0.tzti7.mongodb.net/Cluster0?retryWrites=true&w=majority',
+//qT1NvpGD6LXAlIhI
+mongoose.connect('mongodb+srv://tifiloutube:qT1NvpGD6LXAlIhI@cluster0.tzti7.mongodb.net/Cluster0?retryWrites=true&w=majority\n' +
+    '\n',
     { useNewUrlParser: true,
         useUnifiedTopology: true })
     .then(() => console.log('Connexion à MongoDB réussie !'))
