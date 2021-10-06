@@ -1,5 +1,3 @@
-// Formation OpenClassrooms - Développeur Web - Projet 6 - Thierry Laval
-
 // App.js fait appel aux différentes fonctions implémentées dans l'APi : Accès aux images, aux route User, aux route Sauce
 
 // import des modules npm - Ajout des plugins externes
