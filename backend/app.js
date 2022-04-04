@@ -32,7 +32,7 @@ require('dotenv').config();
 // Connection à la base de données MongoDB avec la sécurité vers le fichier .env pour cacher le mot de passe
 // L'un des avantages que nous avons à utiliser Mongoose pour gérer notre base de données MongoDB est que nous pouvons implémenter des schémas de données stricts
 // qui permettent de rendre notre application plus robuste
-mongoose.connect('mongodb+srv://tifiloutube:qT1NvpGD6LXAlIhI@cluster0.tzti7.mongodb.net/Cluster0?retryWrites=true&w=majority\n' +
+mongoose.connect('mongodb+srv://tifiloutube:QyEBcXunyXHlZ126@cluster0.tzti7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority\n' +
     '\n',
     { useNewUrlParser: true,
       useUnifiedTopology: true })
